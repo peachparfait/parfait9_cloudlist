@@ -1,3 +1,3 @@
-# parfait9_clowdlist
+# parfait9_cloudlist
 まだα版です。
 そのうち色々改善していくのでまあ温かい目で見て頂ければ
